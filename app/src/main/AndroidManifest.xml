@@ -222,14 +222,9 @@
         <!-- Key api Google Mode RELEASE -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCpK1QZSn-McB37fBt0_K9fNfcDb0qZLdM" />
-
-        <!-- Key api Google Mode DEBUG -->
+            android:value="AIzaSyDPMpHZwv7KWrVndgmh6iEJz8bR42U9Yhs" />
 
 
-        <!-- <meta-data -->
-        <!-- android:name="com.google.android.maps.v2.API_KEY" -->
-        <!-- android:value="AIzaSyAJpvikUhUXUt5j89jO4Q5b4wCArgvtMVE"/> -->
 
         <service
             android:name=".Services.UploadService"
